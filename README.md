@@ -18,4 +18,4 @@ Además se ha utilizado GMM para la detección de anomalías
 La evaluación de los modelos se ha realizado utilizando varias métricas, con un enfoque especial en el Recall de las transacciones fraudulentas para asegurar que la mayor cantidad de transacciones fraudulentas son detectadas.
 
 ## Despliegue en una app con Streamlit
-Por último, tras evaluar los modelos se ha seleccionado el mejor modelo (Random Forest- Accuracy: 0,85; Recall: 0,95) y se ha desplegado como app en Streamlit para hacer una demostración a clientes.
+Por último, tras evaluar los modelos se ha seleccionado el mejor modelo (Random Forest- Recall: 0,95; Accuracy: 0,85) y se ha desplegado como un aapp en Streamlit para hacer una demostración a clientes.
