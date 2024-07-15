@@ -15,4 +15,4 @@ El objetivo principal de este proyecto es predecir transacciones fraudulentas ap
 Además se ha utilizado GMM para la detección de anomalías
 
 ## Evaluación
-La evaluación de los modelos se ha realizado utilizando varias métricas, con un enfoque especial en el Recall de las transacciones fraudulentas para asegurar que la mayor cantidad posible de transacciones fraudulentas son detectadas.
+La evaluación de los modelos se ha realizado utilizando varias métricas, con un enfoque especial en el Recall de las transacciones fraudulentas para asegurar que la mayor cantidad de transacciones fraudulentas son detectadas.
